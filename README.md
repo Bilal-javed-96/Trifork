@@ -1,7 +1,7 @@
 # Trifork
 Assignment Related to Job Application
 
-##Cloud Formation Template
+## Cloud Formation Template
 This file is a JSON code for infrastructure represented in **_Reference Architecture_** file. 
 It is used to deploy a highly available infrastructure with fault tolerance, cost optimization and elasticity.
 Following resources are deployed through this template.
