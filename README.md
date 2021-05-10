@@ -1,5 +1,4 @@
-# Trifork
-Assignment Related to Job Application
+
 
 ## Cloud Formation Template
 This file is a JSON code for infrastructure represented in **_Reference Architecture_** file. 
